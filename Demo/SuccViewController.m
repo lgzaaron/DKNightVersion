@@ -21,7 +21,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor whiteColor];// test
     //self.view.nightBackgroundColor = UIColorFromRGB(0x343434);
     self.navigationController.navigationBar.nightTintColor = [UIColor greenColor];
 }
